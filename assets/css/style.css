@@ -12,14 +12,14 @@ header {
 }
 
 body {
-    background-image: url(/assets/images/white-light-stone-floor-texture-background_40415-296.jpg);
+    background-image: url(../images/white-light-stone-floor-texture-background_40415-296.jpg);
     background-position: center;
     background-size: cover;
 }
 
 #name {
     float: left;
-    background-color: rgba(53, 39, 177, 0.822);
+    background-color: cadetblue;
     padding: 0.82em;
     color: white;
     
@@ -44,7 +44,7 @@ body {
 }
 
 #nav-links li a:hover {
-    background-color: rgba(53, 39, 177, 0.404);
+    background-color: rgba(95, 158, 160, 0.493);
     transition: all 0.5s ease-in
 }
 
@@ -91,7 +91,7 @@ input[type=submit]:hover {
 }
 
 h1 {
-    color: rgb(88, 152, 212);
+    color: cadetblue;
     padding-top: 10px;
     padding-bottom: 20px;
 }
@@ -137,7 +137,7 @@ footer {
     height: 60px;
     background-color: rgb(148, 147, 147);
     text-align: center;
-    border-top: rgba(53, 39, 177, 0.89) 8px solid;
+    border-top: cadetblue 8px solid;
 }
 
 .copyright {
@@ -175,7 +175,7 @@ hr {
     right: 0;        
     text-align: center;
     top: 170px;
-    background: rgb(88, 152, 212);
+    background: cadetblue;
     color: white;
     height: 35px;
     width: 300px;
@@ -194,7 +194,7 @@ hr {
     right: 0;        
     text-align: center;
     top: 170px;
-    background: rgb(88, 152, 212);
+    background: cadetblue;
     color: white;
     height: 35px;
     width: 300px;
@@ -213,7 +213,7 @@ hr {
     right: 0;        
     text-align: center;
     top: 170px;
-    background: rgb(88, 152, 212);
+    background: cadetblue;
     color: white;
     height: 35px;
     width: 300px;
@@ -232,7 +232,7 @@ hr {
     right: 0;        
     text-align: center;
     top: 170px;
-    background: rgb(88, 152, 212);
+    background: cadetblue;
     color: white;
     height: 35px;
     width: 300px;
@@ -251,7 +251,7 @@ hr {
     right: 0;        
     text-align: center;
     top: 170px;
-    background: rgb(88, 152, 212);
+    background: cadetblue;
     color: white;
     height: 35px;
     width: 300px;
